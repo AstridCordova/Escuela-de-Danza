@@ -1,0 +1,134 @@
+h1 { 
+  text-align: center;
+  margin-top: 30px;
+  font-size: 27px;
+  color: #192951; }
+
+nav ul { text-align: center;  }
+
+nav li { 
+  display: inline-block;
+  margin: 30px 40px;  
+  font-family: 'Lato:300', sans-serif;  }
+
+nav a { 
+	text-decoration: none; 
+	color: #A9ACB7;  }
+
+header { 
+	background: url(../img/dance_7.jpg) no-repeat;
+    background-size: 145%;
+    background-position-y: 33%;
+    height: 470px;  }
+
+.sobrenosotros {
+    background: rgba(0 , 0 , 0 , 0.5 );
+    color: white;
+    margin: auto;
+    margin-top: 160px;
+    height: 190px;
+    width: 598px;
+    padding: 40px;
+    text-align: center;  }
+
+.sobrenosotros h2 { margin-bottom: 20px; }
+
+.pilar { background:url(../img/tile2.png); }
+
+.pilares { 
+	text-align: center;
+    padding: 50px;
+    color: #A9ACB7;  }
+
+.pilares h2 {
+    padding: 25px;
+    font-size: 26px;
+    border-bottom: 1px solid grey;  }
+
+.pilares p { 
+	padding-top: 25px; 
+    font-size: 18px; }
+
+.instructores { padding: 70px 0;}
+
+.instructores h1 { font-size: 40px;  }
+
+.instructores img { 
+    height: 190px;
+    width: 240px;
+    margin-top: 60px; }
+
+.instructores p { margin: 10px 0; }
+
+.frase { background:url(../img/tile2.png); }
+
+.frase p {
+	height: 200px;
+	padding: 90px 220px;
+	font-size: 42px;
+	text-align: center;
+	font-style: italic;  }
+
+.contactanos {
+    background: url(../img/shoes_1.jpg) no-repeat;
+    background-position: 113%;
+    background-size: contain;
+    height: 670px;
+    color: #192951;
+}
+
+.botones { 
+    padding-top: 70px;
+    padding-left: 165px;  }
+
+.contactanos h2 { font-size: 40px; }
+
+.nombre {
+    background: url(http://rexkirby.com/kirbyandson/images/name.svg) no-repeat 11px 14px;
+    background-size: 30px 30px;
+    width: 620px;
+    height: 55px;  
+    padding-left: 55px;
+    font-size: 20px;
+    color: #DAD7D7;
+    border:3px solid;
+    margin-top: 40px;
+    margin-bottom: 15px; } 
+
+.email {
+	background: url(http://rexkirby.com/kirbyandson/images/email.svg) no-repeat 11px 14px;
+    background-size: 30px 30px;
+    width: 620px;
+    height: 55px;  
+    padding-left: 55px;
+    font-size: 20px;
+    color: #DAD7D7;
+    border:3px solid;
+    margin-bottom: 20px;  }
+
+.mensaje {
+    background: url(http://rexkirby.com/kirbyandson/images/comment.svg) no-repeat 11px 14px;
+    background-size: 30px 30px;
+    width: 620px;
+    height: 175px;
+    padding-left: 55px;
+    padding-top: 10px;
+    font-size: 20px;
+    color: #DAD7D7;
+    border: 3px solid;
+    margin-bottom: 20px;  }
+
+.enviar { 
+    background: #192951;
+    color: white;
+    text-align: center;
+    font-size: 23px;
+    width: 620px;
+    height: 65px;
+    border-radius: 5px;  }
+
+footer { 
+    background: #192951;
+    color: white;
+    padding: 30px 20px;
+	font-size: 14px; }

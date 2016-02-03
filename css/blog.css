@@ -1,0 +1,62 @@
+h1 { 
+  text-align: center;
+  margin-top: 30px;
+  font-size: 27px;
+  color: #192951; }
+
+nav ul { text-align: center;  }
+
+nav li { 
+  display: inline-block;
+  margin: 30px 40px;  
+  font-family: 'Lato:300', sans-serif;  }
+
+nav a { 
+	text-decoration: none; 
+	color: #A9ACB7;  }
+
+.blog  { background: rgb(244 , 244, 244);  }
+
+.blog h2 { 
+      margin: 70px auto; 
+      text-align: center;  }
+
+.fila { 
+	background: rgb(221, 223, 224);
+	height: 228px;
+	width: 1110px; 
+	margin: auto;
+	position: relative;  }
+
+.central { margin:20px 0; }
+
+.superior { 
+	width: 22%;
+	height: 228px;
+    float: left;  }
+
+.centro { 
+	width: 22%;
+    height: 228px;
+    float: left; }
+
+.inferior { 
+	width: 22%;
+	height: 228px;
+	float:left;
+	margin-bottom: 100px; }
+
+.blog h3 { padding: 35px 250px 5px 275px; }
+
+.blog p { padding: 5px 20px 5px 276px; }
+
+.blog input { 
+    background: #192951;
+    color: white;
+    height: 45px;
+    width: 215px;
+    border: none;
+    margin-left: 34px;
+    margin-top: 10px;
+    font-size: 16px;
+    border-radius: 5%;  }

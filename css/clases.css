@@ -1,0 +1,70 @@
+h1 { 
+  text-align: center;
+  margin-top: 30px;
+  font-size: 27px;
+  color: #192951; }
+
+nav ul { text-align: center;  }
+
+nav li { 
+  display: inline-block;
+  margin: 30px 40px;  
+  font-family: 'Lato:300', sans-serif;  }
+
+nav a { 
+	text-decoration: none; 
+	color: #A9ACB7;  }
+
+.fila {
+    margin-bottom: 60px;
+    margin-top: 20px; }
+
+.oferta { background:rgb(244 , 244, 244);  }
+
+.oferta h2 {  
+	font-size: 22px;  
+    text-align: center; 
+    margin-top: 60px;
+    margin-bottom: 30px; }
+
+.oferta p { margin-top: 20px; }
+
+.ballet {
+    background: url(../img/dance_12.jpg) no-repeat;
+    height: 448px;
+    background-size: 95%;  }
+
+.moderna {
+    background: url(../img/breakdance.jpg) no-repeat;
+    height: 448px;
+    background-size: 95%;  }
+
+.jazzuric {
+    background: url(../img/lirical-jazz.jpg) no-repeat;
+    height: 448px;
+    background-size: 95%;  }
+
+.arabe {
+    background: url(../img/arabe.jpg) no-repeat;
+    height: 470px;
+    background-size: 95%;  }
+
+.kids {
+    background: url(../img/little.jpg) no-repeat;
+    height: 470px;
+    background-size: 95%;  }
+
+.yoga {
+    background: url(../img/yoga.jpg) no-repeat;
+    height: 470px;
+    background-size: 95%;  }
+
+.descripcion {
+    background: rgba(0 , 0 , 0 , 0.5 );
+    color: white;
+    margin-left: 10px;
+    margin-top: 170px;
+    height: 140px;
+    width: 319px;
+    padding: 20px;
+    text-align: center;  }
